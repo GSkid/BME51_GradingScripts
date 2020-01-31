@@ -1,0 +1,1 @@
+This is a big systems of equations problem. The idea is to use the corner frequency equations to solve for the gain equation. Refer back to page 188 to see what I'm talking about.
