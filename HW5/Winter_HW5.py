@@ -1,7 +1,7 @@
 #@author: Grant Skidmore
 #get the inputs
 Ru = input("Ru: ") #first get the values of all the variables from the input values
-Rd = input("Rd: ") #the source that helped me with the basics http://www.wikihow.com/Create-a-Very-Simple-Program-in-Python
+Rd = input("Rd: ") 
 Cu = input("Cu: ")
 Cd = input("Cd: ")
 
