@@ -1,5 +1,5 @@
 Rf = input("Rf: ") #first get the values of all the variables from the input values
-Cf = input("Cf: ") #the source that helped me with the basics http://www.wikihow.com/Create-a-Very-Simple-Program-in-Python
+Cf = input("Cf: ") 
 Ri = input("Ri: ")
 Ci = input("Ci: ")
 
