@@ -1,1 +1,4 @@
-# BME51_GradingScripts
+BME51_GradingScripts
+These are scripts to specific problems for BME51 graders. Certain problems (usually with filters) require graders to check specific corner frequencies and gains of electrical circuits. Instead of using a calculator by hand to check all 60 or so students, these scripts will quickly calculate the exact values of any relevant critical points for each problem. When prompted, just insert the student's provided answer and hit enter. The result will be printed allowing you to copy/paste directly into the speed grader so the student can see how close/far they were. 
+
+These scripts use python 3. Since these were designed for use with PyCharm, small changes will need to be made if you are running from a python terminal that closes after each program. Simply add a prompt at the bottom of the program (after the print statements) asking for user input one more time; this will prevent the terminal window from closing until you hit enter one more time, giving you the ability to copy text from the terminal.
